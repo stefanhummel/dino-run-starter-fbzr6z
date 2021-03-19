@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/female-coders-linz/workshops/master/t-rex-run/assets/t-rex.png
+https://raw.githubusercontent.com/female-coders-linz/workshops/master/t-rex-run/assets/cacti.png
+https://raw.githubusercontent.com/female-coders-linz/workshops/master/t-rex-run/assets/t-rex-background.png
+https://raw.githubusercontent.com/female-coders-linz/workshops/master/t-rex-run/assets/game-over.png
